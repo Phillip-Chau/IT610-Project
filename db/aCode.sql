@@ -1,1 +1,1 @@
-CREATE TABLE database (message VARCHAR(200));
+CREATE TABLE database(message VARCHAR(200));
